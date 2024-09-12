@@ -1,0 +1,6 @@
+step 1 : Collect the data
+    
+step 2 : Using ML to classify the faces
+        clastering algo (KNN is using) => scikit-learn library is 
+        
+step 3: a web app to see attendace in real time
